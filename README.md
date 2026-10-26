@@ -1,25 +1,27 @@
-# 🎀 Hi there, I'm Duaa! 🌷
+# 🖤 Duaa 🥀
 
-### ✨ Aspiring Developer | Python Enthusiast | Creative Problem Solver
+### ⛓️ Aspiring Developer | Python Enthusiast | Midnight Problem Solver
 
-Welcome to my little corner of GitHub! 💗
+Welcome to my corner of the dark 🌑
 
-I'm a beginner developer who loves turning ideas into interactive applications. I enjoy exploring programming, web development, databases, and AI while building creative and useful projects.
+I'm a beginner developer who turns raw ideas into living, interactive applications. I wander through code, web development, databases and AI, building things that are creative, useful and a little bit haunted.
 
-🌸 Learning something new every day
-💻 Building fun and practical applications
-🤖 Exploring AI and database integration
-☁️ Learning deployment and cloud hosting
+🕯️ Learning something new with every sunrise I skip
+🖥️ Building tools that feel as good as they look
+🕷️ Weaving AI and databases together
+🌫️ Taking my projects from local to the cloud
 
 ---
 
-## 🌷 About Me
+## 🩸 About Me
 
-* 🎀 **Name:** Duaa
-* 💻 **Interests:** Software Development, Web Apps & AI
-* 🌱 **Currently Learning:** Python, JavaScript, Flask & Databases
-* 🧸 **Building:** Games, productivity tools, finance trackers & library apps
-* 🎯 **Goal:** To become a skilled developer and build meaningful projects
+* 🥀 **Name:** Duaa
+* 🦇 **Interests:** Software Development, Web Apps & AI
+* 🌑 **Currently Learning:** Python, JavaScript, Flask & Databases
+* 🗡️ **Building:** Games, productivity tools, finance trackers & library apps
+* ⛓️ **Goal:** To grow into a skilled developer and ship projects that actually matter
+
+*🖤 still compiling... but never stopping.*
 
 ---
 
@@ -91,63 +93,65 @@ A responsive web project focused on form design, user input, and creating a simp
 
 ---
 
-## 🌱 My Learning Journey
+## 🕯️ ⟢ the path i'm walking
 
 ```text
-🌸 Learning programming fundamentals
+🥀 learning the fundamentals
              ↓
-💻 Building interactive projects
+🖥️ building things that move
              ↓
-🗄️ Exploring databases
+🗄️ descending into databases
              ↓
-🤖 Integrating AI features
+🕷️ weaving AI into the code
              ↓
-☁️ Deploying applications
+☁️ launching into the cloud
              ↓
-✨ Growing as a developer
+🌑 becoming something stronger
 ```
 
 ---
 
-## 💖 My Goals
+## 🩸 ⟢ what i'm chasing
 
-* 🌷 Improve my Python and JavaScript skills
-* 🧁 Build more useful and creative applications
-* 🔐 Learn authentication and secure database design
-* ☁️ Explore cloud deployment and hosting
-* 🤖 Create more AI-powered projects
-* 🚀 Develop a strong project portfolio
-
----
-
-## 📊 GitHub Profile
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DUAA-CTRL&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DUAA-CTRL&theme=rose-pine&hide_border=true" alt="GitHub Streak" />
-</p>
+⛓ sharpen my Python and JavaScript until they cut clean
+⛓ build apps that are more useful and more creative every time
+⛓ master authentication and secure database design
+⛓ conquer cloud deployment and hosting
+⛓ create AI-powered projects with a pulse
+⛓ forge a portfolio that speaks for me
 
 ---
 
-## 🐱 A Little Reminder
-
-*“Every expert was once a beginner. Keep learning, keep building, and keep growing!”* 🌸
-
----
-
-## 💌 Let's Connect
-
-🐙 **GitHub:** [@DUAA-CTRL](https://github.com/DUAA-CTRL)
-
-✨ Explore my repositories, try my projects, and follow my coding journey!
+## 📊 ⟢ the evidence
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0,CE93D8&height=120&section=footer" alt="Pink and purple decorative footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DUAA-CTRL&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=b30000&icon_color=b30000&text_color=c9c9c9" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  Made with 💗 by Duaa
+  <img src="https://streak-stats.demolab.com?user=DUAA-CTRL&theme=dark&hide_border=true&background=0D0D0D&ring=B30000&fire=B30000&currStreakLabel=C9C9C9&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🦇 ⟢ a reminder from the dark
+
+<p align="center">
+  <i>"every expert once started in the dark. keep learning. keep building. keep rising."</i> 🥀
+</p>
+
+---
+
+## 🖤 ⟢ find me here
+
+🕸️ **GitHub:** [@DUAA-CTRL](https://github.com/DUAA-CTRL)
+
+dig through my repositories, try my projects, and follow the journey as it unfolds.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d,4a0000&height=120&section=footer" alt="Dark red and black decorative footer" />
+</p>
+
+<p align="center">
+  ✦ made in the dark by Duaa ✦ 🖤
 </p>
